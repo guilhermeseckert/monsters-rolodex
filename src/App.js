@@ -1,34 +1,33 @@
 import React, {Component} from 'react';
 import './App.css';
+import { CartList} from './components/card/cartList';
 
 class App extends Component {
   constructor(){
     super();
     this.state = {
-      monsters: [
-        {
-          id: 1,
-          name: 'Frankenstein'
-        },
-        {
-          id: 2,
-          name: 'Dracula'
-        }, 
-        {
-          id: 3,
-          name: 'Zombie'
-        }
-      ]
+      monsters: []
 
     };
   }
+ componentDidMount(){
+   fetch('https://jsonplaceholder.typicode.com/users')
+   .then(response => response.json())
+   .then(users => this.setState ({monsters: users}))
+ }
+
   render(){
+    
     return (
       <div className="App">
-      {
-        this.state.monsters.map(monster => 
-        <h1 key={monster.id}>  {monster.name}</h1>)
-      }
+        <CartList> 
+        {
+        this.state.monsters.map(monster => (
+        <h1 key={monster.id}>  {monster.name}</h1>
+        ))
+        }
+        </CartList>
+      
     </div>
     )
   }
