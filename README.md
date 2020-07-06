@@ -19,7 +19,7 @@ I started this application for developing my skills in javaScript with some fram
 
 ### Ferramentas utilizadas
 
-- ESLint + Prettier + EditorConfig + customize-cra;
+- ESLint + Prettier + EditorConfig;
 
 
 #### Dependencies
