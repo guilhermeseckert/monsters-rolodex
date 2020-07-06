@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# **Monster Rolodex**
 
-In the project directory, you can run:
 
+I started this application for developing my skills in javaScript with some frameworks ReactJS.  
+
+
+**Template**
+<div style="text-align:center"><img src="img/template.png" width ="700" />
+
+
+</div>
