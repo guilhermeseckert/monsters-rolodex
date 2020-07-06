@@ -1,4 +1,4 @@
-<blockquote align="center">“Não fique olhando o relógio faça como ele mexa-se”!</blockquote>
+<blockquote align="center">“Keep it Simple, Stupid”!</blockquote>
 
 
 <h3 align="center"> Monster Rolodex </h3>
