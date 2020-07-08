@@ -1,5 +1,11 @@
+h1 {
+  font-size: 25px;
+  color: #0ccac4;
+}
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -12,6 +18,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
