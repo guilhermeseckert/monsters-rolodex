@@ -17,7 +17,7 @@ I started this application for developing my skills in javaScript with some fram
 <div style="text-align:center"><img src="img/template.png" width ="700" /></div>
 
 
-### Ferramentas utilizadas
+### Tools
 
 - ESLint + Prettier + EditorConfig;
 
