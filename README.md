@@ -1,4 +1,4 @@
-<blockquote align="center">“Keep it Simple, Stupid”!</blockquote>
+<blockquote align="center">“Keep it Simple”!</blockquote>
 
 
 <h3 align="center"> Monster Rolodex </h3>
@@ -30,9 +30,5 @@ I started this application for developing my skills in javaScript with some fram
 [Project](https://guilhermeseckert.github.io/monsters-rolodex/)
 
 
-
-<h1 align="center" border-radius= "50%">
-  <img alt="buzz" title="buzz" src="https://media.giphy.com/media/12R2bKfxceemNq/giphy.gif" width="200px" />
-</h1>
 
 Made with by Guilherme S.Eckert [Get in touch!](https://www.linkedin.com/in/guilherme-eckert/)
